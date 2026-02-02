@@ -37,7 +37,7 @@ The final outcome is a predictive system that helps estimate future renewable en
 
 - Data preprocessing (handling missing values, scaling, etc.)
 
- -Feature engineering
+- Feature engineering
 
 - Model training (e.g., Regression / Time Series / ML models)
 
