@@ -62,27 +62,25 @@ Libraries: NumPy, Pandas, Matplotlib / Seaborn, scikit-learn, TensorFlow / PyTor
 
 Clone this repository:
 
-git clone https://github.com/your-username/your-repo-name.git
+- git clone https://github.com/your-username/your-repo-name.git
 
 
 Navigate to the project folder:
 
-cd your-repo-name
+- cd your-repo-name
 
 
 Install required libraries:
 
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
-
-(or install manually: numpy, pandas, matplotlib, scikit-learn, etc.)
+- (or install manually: numpy, pandas, matplotlib, scikit-learn, etc.)
 
 Open the notebook:
 
-jupyter notebook
+- jupyter notebook
 
-
-Run Renewable energy Forcast.ipynb step by step.
+- Run Renewable energy Forcast.ipynb step by step.
 
 ## Results
 
